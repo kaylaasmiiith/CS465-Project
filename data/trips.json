@@ -1,0 +1,15 @@
+[
+  {
+    "destination": "Paris",
+    "price": 1500,
+    "image": "paris.jpg",
+    "description": "A beautiful getaway to the City of Lights."
+  },
+  {
+    "destination": "Tokyo",
+    "price": 1800,
+    "image": "tokyo.jpg",
+    "description": "Explore the vibrant culture of Tokyo."
+  }
+]
+
